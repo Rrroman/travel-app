@@ -1,26 +1,33 @@
 {
   "files": {
-    "main.css": "/travel-app/travel-app/static/css/main.47ec424c.chunk.css",
-    "main.js": "/travel-app/travel-app/static/js/main.ec5a462a.chunk.js",
-    "main.js.map": "/travel-app/travel-app/static/js/main.ec5a462a.chunk.js.map",
-    "runtime-main.js": "/travel-app/travel-app/static/js/runtime-main.d27d1d91.js",
-    "runtime-main.js.map": "/travel-app/travel-app/static/js/runtime-main.d27d1d91.js.map",
-    "static/js/2.67de1ecf.chunk.js": "/travel-app/travel-app/static/js/2.67de1ecf.chunk.js",
-    "static/js/2.67de1ecf.chunk.js.map": "/travel-app/travel-app/static/js/2.67de1ecf.chunk.js.map",
-    "static/js/3.eac92ad1.chunk.js": "/travel-app/travel-app/static/js/3.eac92ad1.chunk.js",
-    "static/js/3.eac92ad1.chunk.js.map": "/travel-app/travel-app/static/js/3.eac92ad1.chunk.js.map",
-    "index.html": "/travel-app/travel-app/index.html",
-    "static/css/main.47ec424c.chunk.css.map": "/travel-app/travel-app/static/css/main.47ec424c.chunk.css.map",
-    "static/js/2.67de1ecf.chunk.js.LICENSE.txt": "/travel-app/travel-app/static/js/2.67de1ecf.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/travel-app/travel-app/static/media/Poppins-Medium.9e1bb626.ttf",
-    "static/media/header.module.css": "/travel-app/travel-app/static/media/logo-no-text-compressed.1fffc6b6.svg",
-    "static/media/footer.module.css": "/travel-app/travel-app/static/media/rs_school_js.ae26ed3c.svg",
-    "static/media/short-track.344c0135.mp4": "/travel-app/travel-app/static/media/short-track.344c0135.mp4"
+    "main.css": "/static/css/main.eabfdea3.chunk.css",
+    "main.js": "/static/js/main.d55e76d0.chunk.js",
+    "main.js.map": "/static/js/main.d55e76d0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cc6fdde3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cc6fdde3.js.map",
+    "static/css/2.61837278.chunk.css": "/static/css/2.61837278.chunk.css",
+    "static/js/2.2f6be455.chunk.js": "/static/js/2.2f6be455.chunk.js",
+    "static/js/2.2f6be455.chunk.js.map": "/static/js/2.2f6be455.chunk.js.map",
+    "static/js/3.598f0181.chunk.js": "/static/js/3.598f0181.chunk.js",
+    "static/js/3.598f0181.chunk.js.map": "/static/js/3.598f0181.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.61837278.chunk.css.map": "/static/css/2.61837278.chunk.css.map",
+    "static/css/main.eabfdea3.chunk.css.map": "/static/css/main.eabfdea3.chunk.css.map",
+    "static/js/2.2f6be455.chunk.js.LICENSE.txt": "/static/js/2.2f6be455.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Poppins-Medium.9e1bb626.ttf",
+    "static/media/getFetch.cjs": "/static/media/getFetch.d7d6010d.cjs",
+    "static/media/langSVG.7cc385dc.svg": "/static/media/langSVG.7cc385dc.svg",
+    "static/media/header.module.css": "/static/media/logo-no-text-compressed.1fffc6b6.svg",
+    "static/media/footer.module.css": "/static/media/rs_school_js.ae26ed3c.svg",
+    "static/media/short-track.344c0135.mp4": "/static/media/short-track.344c0135.mp4",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/user.628b974e.svg": "/static/media/user.628b974e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d27d1d91.js",
-    "static/js/2.67de1ecf.chunk.js",
-    "static/css/main.47ec424c.chunk.css",
-    "static/js/main.ec5a462a.chunk.js"
+    "static/js/runtime-main.cc6fdde3.js",
+    "static/css/2.61837278.chunk.css",
+    "static/js/2.2f6be455.chunk.js",
+    "static/css/main.eabfdea3.chunk.css",
+    "static/js/main.d55e76d0.chunk.js"
   ]
 }

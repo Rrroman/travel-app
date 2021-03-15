@@ -1,0 +1,40 @@
+{
+  "main-page": {
+    "header-link": {
+      "about": "About us",
+      "destination": "Destination"
+    },
+    "main-body": {
+      "explore": "explore",
+      "search": "search"
+    }
+  },
+  "auth-page": {
+    "auth-block": {
+      "sign-in": "Sign in",
+      "log-in": "Log in",
+      "email": "Email",
+      "name": "Name",
+      "password": "Password",
+      "skip": "Skip",
+      "sign-up-text": "Don’t Have An Account Yet? Sing Up",
+      "sign-in-text": "You have an account yet? Sing In"
+    },
+    "video-start": {
+      "header1": "The Most Beautifully Places",
+      "header2": "in The World",
+      "text-p": "Plan Your Vacations on the Most Beautifully Places in The World"
+    }
+  },
+  "country-page": {
+    "tabs": {
+      "first": "Inspire",
+      "second": "Introducing",
+      "third": "While you’re there",
+      "fourth": "Map"
+    },
+    "times": {
+      "localTime": "local time"
+    }
+  }
+}

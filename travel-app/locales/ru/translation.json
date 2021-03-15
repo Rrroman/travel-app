@@ -33,6 +33,15 @@
       "third": "Пока вы там",
       "fourth": "Карта"
     },
+    "key-facts": {
+      "area": "Площадь",
+      "population": "Население страны",
+      "pop-density": "Плотность населения",
+      "capital": "Столица",
+      "government": "Форма правления",
+      "headOfState": "Глава страны",
+      "headOfGov": "Глава правительства"
+    },
     "times": {
       "localTime": "местное время"
     }

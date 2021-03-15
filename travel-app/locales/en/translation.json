@@ -33,8 +33,18 @@
       "third": "While you’re there",
       "fourth": "Map"
     },
+    "key-facts":{
+      "area": "Area",
+      "population": "Population",
+      "pop-density": "Population density",
+      "capital": "Capital",
+      "government": "Government",
+      "headOfState": "Head of State",
+      "headOfGov": "Head of Government"
+    },
     "times": {
       "localTime": "local time"
+
     }
   }
 }

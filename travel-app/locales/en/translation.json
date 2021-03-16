@@ -12,11 +12,12 @@
   "auth-page": {
     "auth-block": {
       "sign-in": "Sign in",
-      "log-in": "Log in",
+      "log-in": "Sign up",
       "email": "Email",
-      "name": "Name",
+      "name": "Login",
       "password": "Password",
       "skip": "Skip",
+      "logout": "Log out",
       "sign-up-text": "Don’t Have An Account Yet? Sing Up",
       "sign-in-text": "You have an account yet? Sing In"
     },
@@ -24,6 +25,11 @@
       "header1": "The Most Beautifully Places",
       "header2": "in The World",
       "text-p": "Plan Your Vacations on the Most Beautifully Places in The World"
+    },
+    "profileCard": {
+      "name": "name",
+      "email": "email address",
+      "favorite": "My Favorite places"
     }
   },
   "country-page": {

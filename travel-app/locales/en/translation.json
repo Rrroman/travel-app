@@ -39,7 +39,7 @@
       "third": "While you’re there",
       "fourth": "Map"
     },
-    "key-facts":{
+    "key-facts": {
       "area": "Area",
       "population": "Population",
       "pop-density": "Population density",
@@ -50,7 +50,9 @@
     },
     "times": {
       "localTime": "local time"
-
+    },
+    "rating": {
+      "clickInfo": "please log in"
     }
   }
 }

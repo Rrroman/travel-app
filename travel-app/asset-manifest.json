@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/travel-app/travel-app/static/css/main.14fb0260.chunk.css",
-    "main.js": "/travel-app/travel-app/static/js/main.af36edf1.chunk.js",
-    "main.js.map": "/travel-app/travel-app/static/js/main.af36edf1.chunk.js.map",
+    "main.css": "/travel-app/travel-app/static/css/main.a0f401c0.chunk.css",
+    "main.js": "/travel-app/travel-app/static/js/main.c3c1a094.chunk.js",
+    "main.js.map": "/travel-app/travel-app/static/js/main.c3c1a094.chunk.js.map",
     "runtime-main.js": "/travel-app/travel-app/static/js/runtime-main.8a9ca274.js",
     "runtime-main.js.map": "/travel-app/travel-app/static/js/runtime-main.8a9ca274.js.map",
     "static/css/2.af921d93.chunk.css": "/travel-app/travel-app/static/css/2.af921d93.chunk.css",
-    "static/js/2.0525e201.chunk.js": "/travel-app/travel-app/static/js/2.0525e201.chunk.js",
-    "static/js/2.0525e201.chunk.js.map": "/travel-app/travel-app/static/js/2.0525e201.chunk.js.map",
+    "static/js/2.9f52e4b9.chunk.js": "/travel-app/travel-app/static/js/2.9f52e4b9.chunk.js",
+    "static/js/2.9f52e4b9.chunk.js.map": "/travel-app/travel-app/static/js/2.9f52e4b9.chunk.js.map",
     "static/js/3.85e75fb9.chunk.js": "/travel-app/travel-app/static/js/3.85e75fb9.chunk.js",
     "static/js/3.85e75fb9.chunk.js.map": "/travel-app/travel-app/static/js/3.85e75fb9.chunk.js.map",
     "index.html": "/travel-app/travel-app/index.html",
     "static/css/2.af921d93.chunk.css.map": "/travel-app/travel-app/static/css/2.af921d93.chunk.css.map",
-    "static/css/main.14fb0260.chunk.css.map": "/travel-app/travel-app/static/css/main.14fb0260.chunk.css.map",
-    "static/js/2.0525e201.chunk.js.LICENSE.txt": "/travel-app/travel-app/static/js/2.0525e201.chunk.js.LICENSE.txt",
+    "static/css/main.a0f401c0.chunk.css.map": "/travel-app/travel-app/static/css/main.a0f401c0.chunk.css.map",
+    "static/js/2.9f52e4b9.chunk.js.LICENSE.txt": "/travel-app/travel-app/static/js/2.9f52e4b9.chunk.js.LICENSE.txt",
     "static/js/mapbox-gl-csp-worker.4525eda7.worker.js": "/travel-app/travel-app/static/js/mapbox-gl-csp-worker.4525eda7.worker.js",
     "static/js/mapbox-gl-csp-worker.4525eda7.worker.js.map": "/travel-app/travel-app/static/js/mapbox-gl-csp-worker.4525eda7.worker.js.map",
     "static/media/index.css": "/travel-app/travel-app/static/media/Poppins-Medium.9e1bb626.ttf",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.8a9ca274.js",
     "static/css/2.af921d93.chunk.css",
-    "static/js/2.0525e201.chunk.js",
-    "static/css/main.14fb0260.chunk.css",
-    "static/js/main.af36edf1.chunk.js"
+    "static/js/2.9f52e4b9.chunk.js",
+    "static/css/main.a0f401c0.chunk.css",
+    "static/js/main.c3c1a094.chunk.js"
   ]
 }

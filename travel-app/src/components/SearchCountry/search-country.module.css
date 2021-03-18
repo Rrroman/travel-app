@@ -1,0 +1,52 @@
+.search-country-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 2rem;
+}
+
+.search-input {
+  color: #fff;
+  border-color: #fff;
+}
+
+.search-form {
+  width: 40%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid white;
+}
+
+.search-input {
+  color: #fff;
+  border: none;
+  background: none;
+  outline: none;
+  margin-left: 3px;
+  margin-right: 3px;
+  font-weight: bold;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  width: 90%;
+}
+
+.search-input::placeholder {
+  color: rgb(216, 216, 216);
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+
+.search-icons {
+  color: #fff;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 540px) {
+  .search-form {
+    width: 100%;
+  }
+}

@@ -1,0 +1,7 @@
+.player__wrapper {
+  margin: 20px auto;
+  width: 83%;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+}

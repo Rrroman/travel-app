@@ -1,0 +1,44 @@
+.video-wrapper {
+  position: relative;
+}
+
+.video-size {
+  width: 100%;
+  height: 100%;
+  max-width: 1280px;
+  max-height: 720px;
+  border-radius: 30px;
+  position: relative;
+  z-index: 1;
+}
+
+.video-text {
+  position: absolute;
+  top: 40%;
+  left: 10%;
+  z-index: 2;
+  text-align: center;
+}
+
+.video-header {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 3.6rem;
+  line-height: 8rem;
+  color: #0f052f;
+}
+
+.video-ptext {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2rem;
+  line-height: 3rem;
+
+  color: #ffffff;
+}
+
+@media (max-width: 800px) {
+  .video-wrapper {
+    display: none;
+  }
+}

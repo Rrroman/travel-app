@@ -1,0 +1,24 @@
+.alert-info {
+  font-size: 1.6px;
+}
+.rating{
+  padding: 5px;
+}
+.rating__lines{
+  align-items: center;
+  background: rgba(231, 237, 237, 0.50);
+display: flex;
+flex-direction: row;
+justify-content: start;
+ padding-right: 10px;
+}
+.rating__name{
+  padding-right: 5px;
+  min-width: 50px;
+
+}
+.stars__rating{
+  display: flex;
+  justify-content: center;
+
+}

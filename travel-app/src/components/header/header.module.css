@@ -1,0 +1,67 @@
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 60px;
+  margin-bottom: 12px;
+}
+
+.header__logo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-right: auto;
+}
+
+.header__logo-icon {
+  display: block;
+
+  margin-right: 14px;
+  width: 5.8rem;
+  height: 5.7rem;
+
+  background-image: url('../../assets/images/logo-no-text-compressed.svg');
+  background-repeat: no-repeat;
+  background-position: center 4px;
+}
+
+.header__logo-text {
+  font-size: 1.4rem;
+  line-height: 2.1rem;
+}
+
+.header__link {
+  margin: 0 14px;
+  color: #ffffff;
+  font-size: 1.4rem;
+  line-height: 2.1rem;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.header__login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 4rem;
+  height: 4rem;
+
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+  border: 1px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.header__login_black {
+  border-color: #000000;
+}
+
+.header__login:hover {
+  cursor: pointer;
+}
+
+.header__menu {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}

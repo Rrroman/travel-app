@@ -1,0 +1,58 @@
+{
+  "main-page": {
+    "header-link": {
+      "about": "About us",
+      "destination": "Destination"
+    },
+    "main-body": {
+      "explore": "explore",
+      "search": "search"
+    }
+  },
+  "auth-page": {
+    "auth-block": {
+      "sign-in": "Sign in",
+      "log-in": "Sign up",
+      "email": "Email",
+      "name": "Login",
+      "password": "Password",
+      "skip": "Skip",
+      "logout": "Log out",
+      "sign-up-text": "Don’t Have An Account Yet? Sing Up",
+      "sign-in-text": "You have an account yet? Sing In"
+    },
+    "video-start": {
+      "header1": "The Most Beautifully Places",
+      "header2": "in The World",
+      "text-p": "Plan Your Vacations on the Most Beautifully Places in The World"
+    },
+    "profileCard": {
+      "name": "name",
+      "email": "email address",
+      "favorite": "My Favorite places"
+    }
+  },
+  "country-page": {
+    "tabs": {
+      "first": "Inspire",
+      "second": "Introducing",
+      "third": "While you’re there",
+      "fourth": "Map"
+    },
+    "key-facts": {
+      "area": "Area",
+      "population": "Population",
+      "pop-density": "Population density",
+      "capital": "Capital",
+      "government": "Government",
+      "headOfState": "Head of State",
+      "headOfGov": "Head of Government"
+    },
+    "times": {
+      "localTime": "local time"
+    },
+    "rating": {
+      "clickInfo": "please log in"
+    }
+  }
+}

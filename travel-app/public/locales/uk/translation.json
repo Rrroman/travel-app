@@ -1,0 +1,58 @@
+{
+  "main-page": {
+    "header-link": {
+      "about": "Про нас",
+      "destination": "Місця призначення"
+    },
+    "main-body": {
+      "explore": "досліджувати",
+      "search": "пошук"
+    }
+  },
+  "auth-page": {
+    "auth-block": {
+      "sign-in": "Увійти",
+      "log-in": "Регистрация",
+      "email": "эл-почта",
+      "name": "Логин",
+      "password": "Пароль",
+      "skip": "Пропустити",
+      "logout": "вийти",
+      "sign-up-text": "У вас ще немає акаунта? Зареєструватися",
+      "sign-in-text": "У вас вже є аккаунт? Увійти"
+    },
+    "video-start": {
+      "header1": "Самі Красиві Місця",
+      "header2": "в усьому Світі",
+      "text-p": "Плануйте Свою Відпустку в Найкрасивіших Місцях Світу"
+    },
+    "profileCard": {
+      "name": "ім'я",
+      "email": "електронна адреса",
+      "favorite": "Мої вибрані місця"
+    }
+  },
+  "country-page": {
+    "tabs": {
+      "first": "Натхнення",
+      "second": "Представляємо",
+      "third": "Поки ви там",
+      "fourth": "Карта"
+    },
+    "key-facts": {
+      "area": "Площа",
+      "population": "Населення країни",
+      "pop-density": "Щільність населення",
+      "capital": "Столиця",
+      "government": "Форма правління",
+      "headOfState": "Глава держави",
+      "headOfGov": "Глава уряду"
+    },
+    "times": {
+      "localTime": "мiсцевий час"
+    },
+    "rating": {
+      "clickInfo": "будь ласка авторизуйтесь"
+    }
+  }
+}

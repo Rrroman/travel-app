@@ -1,0 +1,14 @@
+.auth-button {
+  background: #3ccdd7;
+  box-shadow: 0px 4px 10px rgba(60, 205, 215, 0.4);
+  border-radius: 10px;
+  border-color: rgba(60, 205, 215, 0.4);
+  width: 100%;
+  font-weight: 600;
+  font-size: 1.8rem;
+  line-height: 4.5rem;
+  text-transform: uppercase;
+  color: #0f052f;
+  outline: none;
+  cursor: pointer;
+}

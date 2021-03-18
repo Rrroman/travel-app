@@ -1,0 +1,38 @@
+.name-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 50%;
+  margin-left: 10%;
+  height: 250px;
+}
+
+.country-name {
+  display: block;
+  font-weight: bold;
+  font-size: 7.2rem;
+  line-height: 10.8rem;
+  color: #ffffff;
+}
+
+.country-info {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+  display: block;
+  color: #ffffff;
+  text-align: left;
+  overflow: hidden;
+  height: 100px;
+  white-space: nowrap;
+  max-width: 100%;
+  text-overflow: ellipsis;
+}
+
+@media screen and (max-width: 640px) {
+  .name-wrapper {
+    height: auto;
+    width: auto;
+  }
+}

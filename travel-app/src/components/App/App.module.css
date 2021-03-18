@@ -1,6 +1,8 @@
 .app {
   text-align: center;
   height: 100vh;
+  background-color: #FFE4E1;
+  
   background-size: cover;
   background-repeat: no-repeat;
 }

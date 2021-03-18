@@ -1,3 +1,7 @@
+*:root {
+  --mainColor:#FF7F50;
+}
+
 .card-info-wrapper {
   display: flex;
   flex-direction: row;
@@ -7,8 +11,8 @@
 }
 
 .card-info-about {
-  background-color: #d8f5f7;
-  border-radius: 30px;
+  background-color:var(--mainColor);
+  border-radius: 10px;
   margin: 20px 20px 0 0;
   text-align: left;
   padding: 35px 45px;
@@ -33,12 +37,12 @@
   max-height: 180px;
 
   border-radius: 15px;
-  background-color: #d8f5f7;
-  border: 0.2px solid #d8f5f7;
+  background-color: var(--mainColor);
+  border: 0.2px solid var(--mainColor);
   margin: 0 auto 20px;
 }
 .country-key-facts {
-  background-color: #d8f5f7;
+  background-color: var(--mainColor);
   border-radius: 15px;
   flex-grow: 1;
 }

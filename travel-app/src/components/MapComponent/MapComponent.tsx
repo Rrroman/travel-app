@@ -81,8 +81,8 @@ const MapComponent: React.FC<Props> = ({
             id="anything"
             type="fill"
             paint={{
-              'fill-color': '#f4cb67',
-              'fill-opacity': 0.6,
+              'fill-color': '#dd9376',
+              'fill-opacity': 0.8,
             }}
             source={selectedCountryIndex.toString()}
           />

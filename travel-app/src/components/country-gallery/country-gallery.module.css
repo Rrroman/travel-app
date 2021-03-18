@@ -1,3 +1,7 @@
+*:root {
+  --mainColor:#FF7F50;
+}
+
 .gallery__wrapper {
   display: flex;
   flex-direction: column;
@@ -19,7 +23,7 @@
   max-width: 900px;
   width: 100%;
   padding: 10px;
-  border-radius: 30px;
+  border-radius: 10px;
   margin: auto auto;
   text-align: left;
   font-family: 'Poppins';
@@ -34,9 +38,9 @@
   max-width: 292px;
   margin-top: 20px;
   box-sizing: border-box;
-  background-color: #d8f5f7;
+  background-color: var(--mainColor);
   padding: 10px;
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 .title {
@@ -55,8 +59,8 @@
   justify-content: flex-start;
 }
 .gallery__thumbnails {
-  background-color: #d8f5f7;
-  border-radius: 15px;
+  background-color: var(--mainColor);
+  border-radius: 10px;
   margin: 10px 0;
   min-height: 20vh;
   flex-grow: 1;

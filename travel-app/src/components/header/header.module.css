@@ -20,9 +20,10 @@
   width: 5.8rem;
   height: 5.7rem;
 
-  background-image: url('../../assets/images/logo-no-text-compressed.svg');
+  background-image: url('../../assets/images/webadc-icon-bw.svg');
   background-repeat: no-repeat;
-  background-position: center 4px;
+  background-size: cover;
+  background-position: center ;
 }
 
 .header__logo-text {
